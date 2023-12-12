@@ -12,4 +12,3 @@ console.log("Amount of days until Christmas is: " + getDaysUntilChristmas());`
 ![Android Screenshot](./Android-Screenshot.png)
 ![iOS Screenshot](./iOS-Screenshot.png)
 ![Parallels Screenshot](./Parallels-Screenshot.png)
-# MAD9112FinalProject
